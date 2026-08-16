@@ -1,0 +1,15 @@
+EXAM REPORT
+====================
+Dinesh - 33 - Fail
+Rahul - 38 - Fail
+Ravi - 36 - Fail
+Kiran - 62 - C
+Anil - 94 - A
+Suresh - 7 - Fail
+Arjun - 62 - C
+Vijay - 51 - D
+Ramesh - 87 - B
+Ajay - 88 - B
+
+Average: 55.8
+Standard Deviation: 26.794775610181922

@@ -1,0 +1,4 @@
+Student Results
+{'Dinesh': 75, 'Rahul': 45, 'Ravi': 65, 'Kiran': 30, 'Anil': 80}
+Students above 50: ['Dinesh', 'Ravi', 'Anil']
+Average: 59.0

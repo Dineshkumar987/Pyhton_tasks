@@ -1,0 +1,13 @@
+score_phrase,title,url,platform,score,genre,editors_choice,release_year,release_month,release_day
+Amazing,The Witcher 3: Wild Hunt,/games/the-witcher-3,PC,9.3,RPG,Y,2015,5,19
+Great,Grand Theft Auto V,/games/gta-v,PlayStation 4,10.0,Action,Y,2014,11,18
+Good,Minecraft,/games/minecraft,PC,9.0,Sandbox,Y,2011,11,18
+Okay,Cyberpunk 2077,/games/cyberpunk-2077,PC,7.0,RPG,N,2020,12,10
+Great,God of War,/games/god-of-war,PlayStation 4,10.0,Action,Y,2018,4,20
+Mediocre,Flappy Bird,/games/flappy-bird,Mobile,5.5,Arcade,N,2013,5,24
+Good,Super Mario Odyssey,/games/super-mario-odyssey,Nintendo Switch,9.5,Platformer,Y,2017,10,27
+Great,Red Dead Redemption 2,/games/rdr-2,Xbox One,10.0,Action,Y,2018,10,26
+Okay,Fallout 76,/games/fallout-76,PC,5.0,RPG,N,2018,11,14
+Good,Portal 2,/games/portal-2,PC,9.5,Puzzle,Y,2011,4,19
+Great,The Last of Us Part II,/games/tlou-2,PlayStation 4,10.0,Action,Y,2020,6,19
+Bad,Sonic the Hedgehog,/games/sonic-06,Xbox 360,4.8,Platformer,N,2006,11,14

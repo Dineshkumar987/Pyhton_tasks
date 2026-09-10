@@ -1,1 +1,4 @@
-"venv/`n**/venv/`n__pycache__/`n*.pyc" 
+venv/ 
+**/venv/ 
+__pycache__/ 
+*.pyc
